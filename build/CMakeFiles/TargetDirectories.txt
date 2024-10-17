@@ -1,0 +1,3 @@
+/home/obrikash/git-projects/path_tracing/build/CMakeFiles/PathTracing.dir
+/home/obrikash/git-projects/path_tracing/build/CMakeFiles/edit_cache.dir
+/home/obrikash/git-projects/path_tracing/build/CMakeFiles/rebuild_cache.dir
